@@ -1,6 +1,6 @@
 {
   "name": "AlashTimer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy non-blocking timers and LED blinker without delay(): periodic, once, stopwatch, patterns, no dependencies",
   "keywords": "timer, millis, delay, non-blocking, blink, stopwatch, schedule",
   "repository": {

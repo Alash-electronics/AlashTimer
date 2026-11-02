@@ -1,5 +1,9 @@
-// AlashBlinker: мигание по шаблону без delay(). Бесконечное мигание, три вспышки и сигнал SOS.
-// update() нужно вызывать в loop().
+// [ru] AlashBlinker: мигание по шаблону без delay(). Бесконечное мигание, три вспышки и сигнал SOS.
+//      update() нужно вызывать в loop().
+// [kk] AlashBlinker: delay() жоқ үлгі бойынша жыпылықтау. Шексіз жыпылықтау, үш жарқыл және SOS сигналы.
+//      update() функциясын loop() ішінде шақыру керек.
+// [en] AlashBlinker: blinking by a pattern without delay(). Endless blinking, three flashes and the SOS signal.
+//      update() must be called in loop().
 #include <AlashTimer.h>
 
 #ifndef LED_BUILTIN
